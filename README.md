@@ -59,7 +59,7 @@ SoapUI, Android Studio, xCode, PoE, Charles, Git, Chrome DevTools.</p>
 <p>&nbsp;5.<b>подготовить отчет о тестировании (со ссылками на баг-репорты, если они найдены)</b></p>
 
 <p>Как решал: проект выполнялся в группе с разделением ответственности за выполнение отдельных этапов тестирования</p>
-<a href="https://dvoinb1estandartb1.atlassian.net/wiki/spaces/HOMEWORK/pages/1343489/1+2-](https://dvoinb1estandartb1.atlassian.net/wiki/spaces/HOMEWORK/pages/16154625/.+3-+."> Ссылка на проект 3</a>
+<a href="https://dvoinb1estandartb1.atlassian.net/wiki/spaces/HOMEWORK/pages/16154625/.+3-+."> Ссылка на проект 3</a>
 <p>Логин:     rus-domovoi@mail.ru</p>
 <p>Пароль:   UmF%V&vw43</p>
 
