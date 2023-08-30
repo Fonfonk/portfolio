@@ -20,6 +20,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</p>
 <p>&nbsp;2.<b>подготовить тестовую документацию</b></p>
 <p>&nbsp;3.<b>провести тестирование</b></p>
 <p>&nbsp;4.<b>написать отчет о результатах тестирования</b></p>
+<br>
 
 <p>Как решал: произвел декомпозицию проекта, на основе чего был сделан тест-план тестирования и составлены чек-листы функциональных и Smoke тестов.</p>
 <a href="https://dvoinb1estandartb1.atlassian.net/wiki/spaces/HOMEWORK/pages/1343489/1+2-"> Ссылка на проект 1</a>
