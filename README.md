@@ -22,4 +22,4 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</p>
 <p>4.<b>написать отчет о результатах тестирования</b></p>
 
 <p>Как решал: произвел декомпозицию проекта, на основе чего был сделан тест-план тестирования и составлены чек-листы функциональных и Smoke тестов.</p>
-<link>https://dvoinb1estandartb1.atlassian.net/wiki/spaces/HOMEWORK/pages/1343489/1+2-</link>
+<link> <a href="https://dvoinb1estandartb1.atlassian.net/wiki/spaces/HOMEWORK/pages/1343489/1+2-"> Ссылка на проект 1</a></link>
