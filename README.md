@@ -12,7 +12,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</p>
 
 <h2>Проекты</h2>
 
-<h3>Проект 1: тест веб-приложения для учителей от Skyeng</h3>
+<h3 class="blue" style="color:blue">Проект 1: тест веб-приложения для учителей от Skyeng</h3>
 
 <p>Что нужно было сделать:</p>
 
