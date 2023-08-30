@@ -14,6 +14,4 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.</p>
 
 <p>Проект 1: тест веб-приложения для учителей от Skyeng</p>
 <p>Что нужно было сделать:</p>
-<ui>
-  <li>1 - сделать тест-план </li>
-</ui>
+<p>1. <b>сделать тест-план </b></p>
